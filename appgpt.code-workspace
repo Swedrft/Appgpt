@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../settings/aplikacja pogoda"
+		},
+		{
+			"path": "../settings/projekt dla klienta"
+		},
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
